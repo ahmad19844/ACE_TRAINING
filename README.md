@@ -15,7 +15,7 @@ The server creates `data/portal.sqlite` automatically. Override its location wit
 ## Initial administrator
 
 - Username: `admin_control`
-- Password: `Pa$$w0rd1177`
+- Password: `***********`
 
 The first successful administrator login is restricted to the password replacement screen. The replacement must be exactly 12 characters and contain uppercase, lowercase, and numeric characters.
 
